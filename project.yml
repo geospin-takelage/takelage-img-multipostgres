@@ -1,0 +1,6 @@
+---
+name: takelage-img-multipostgres
+local_user: packer_local
+dockerhub_user: takelage
+dockerhub_repo: multipostgres
+dockerhub_tag: 11
