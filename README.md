@@ -5,7 +5,7 @@
 The
 [takelage/multipostgres](https://hub.docker.com/repository/docker/takelage/multipostgres)
 docker image is based on
-[oostgres:11](https://hub.docker.com/_/postgres).
+[postgres:11](https://hub.docker.com/_/postgres).
 It has been updated and it accepts the 
 `POSTGRES_MULTIPLE_DATABASES` environment variable using
 [this idea](https://github.com/mrts/docker-postgresql-multiple-databases).
