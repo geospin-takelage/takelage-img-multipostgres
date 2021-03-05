@@ -1,4 +1,5 @@
-![multipostgres image](https://github.com/geospin-takelage/takelage-img-multipostgres/actions/workflows/build_deploy_multipostgres_nightly.yml/badge.svg)
+[![docker image](https://img.shields.io/docker/v/takelage/multipostgres/latest?label=hub.docker.com)](https://hub.docker.com/repository/docker/takelage/multipostgres)
+[![multipostgres image](https://github.com/geospin-takelage/takelage-img-multipostgres/actions/workflows/build_deploy_multipostgres_nightly.yml/badge.svg)](https://github.com/geospin-takelage/takelage-img-multipostgres/actions/workflows/build_deploy_multipostgres_nightly.yml)
 
 # takelage-img-multipostgres
 
